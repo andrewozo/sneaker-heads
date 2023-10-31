@@ -37,3 +37,45 @@ Images:
   height: 400px;
   width: 600px;
 }
+
+body {
+  background-image: url(https://upload.wikimedia.org/wikipedia/en/thumb/3/37/Jumpman_logo.svg/400px-Jumpman_logo.svg.png);
+  background-size: 100%;
+  font-family: Copperplate;
+}
+
+h1 {
+  color: #6d00fb;
+}
+
+#page-title {
+  border: 100px;
+  box-shadow: 200px;
+  border-radius: 100px;
+  text-align: center;
+  background-image: linear-gradient(#fb4040, #74c9f1);
+}
+
+#jordans-1-desc {
+  background-color: #74c9f1;
+  color: #ffffff;
+  border-color: #6d00fb;
+  border: 100px;
+  box-shadow: 5px 5px 5px #6d00fb;
+}
+
+#jordans-2-desc {
+  background-color: #74c9f1;
+  color: #ffffff;
+  border-color: #6d00fb;
+  border: 100px;
+  box-shadow: 5px 5px 5px #6d00fb;
+}
+
+#jordans-1 {
+  box-shadow: 5px 5px 5px #fb4040;
+}
+
+#jordans-2 {
+  box-shadow: 5px 5px 5px #fb4040;
+}
